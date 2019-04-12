@@ -1,5 +1,4 @@
 # IVT Spaceship
-branch-B changed
 branch-A changed
 # This is a changed line
 
